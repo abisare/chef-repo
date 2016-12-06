@@ -50,3 +50,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+.vagrant
+*.pub
+*.zip
+*.deb
